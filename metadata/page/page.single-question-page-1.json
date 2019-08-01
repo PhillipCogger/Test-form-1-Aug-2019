@@ -1,0 +1,27 @@
+{
+  "_id": "page.single-question-page-1",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.single-question-page-1--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.single-question-page-1--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Beer",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.single-question-page-1--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "Cider",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Beer or cider?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "single-question-page-1"
+}

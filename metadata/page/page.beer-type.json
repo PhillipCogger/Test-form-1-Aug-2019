@@ -1,0 +1,32 @@
+{
+  "_id": "page.beer-type",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.beer-type--radios.auto_name__2",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.beer-type--radios.auto_name__2--radio.auto_value__3",
+          "_type": "radio",
+          "label": "The good stuff",
+          "value": "auto_value__3"
+        },
+        {
+          "_id": "page.beer-type--radios.auto_name__2--radio.auto_value__4",
+          "_type": "radio",
+          "label": "Lager",
+          "value": "auto_value__4"
+        }
+      ],
+      "legend": "What type of beer?",
+      "name": "auto_name__2"
+    }
+  ],
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "beer-type"
+}
