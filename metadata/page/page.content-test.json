@@ -1,0 +1,12 @@
+{
+  "_id": "page.content-test",
+  "_type": "page.content",
+  "components": [
+    {
+      "_id": "page.content-test--content",
+      "_type": "content"
+    }
+  ],
+  "heading": "test heading 2",
+  "url": "content-test"
+}
