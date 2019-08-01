@@ -25,8 +25,7 @@
   ],
   "show": {
     "identifier": "auto_name__1",
-    "operator": "is",
-    "value": "auto_value__1"
+    "operator": "defined"
   },
   "url": "beer-type"
 }
